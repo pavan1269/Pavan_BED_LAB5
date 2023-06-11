@@ -1,6 +1,0 @@
-com\gl\employeeManagementSystem\entity\Employee.class
-com\gl\employeeManagementSystem\controller\EmployeeController.class
-com\gl\employeeManagementSystem\repository\EmployeeRepository.class
-com\gl\employeeManagementSystem\EmployeeManagementSystemApplication.class
-com\gl\employeeManagementSystem\service\EmployeeService.class
-com\gl\employeeManagementSystem\service\impl\EmployeeServiceImpl.class
